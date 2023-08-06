@@ -4,7 +4,7 @@
 
     Instead of using ~run I used ~execute
 
- Write a program that prints the numbers from 1 to 100. But for multiples of thre print "Fizz" instead of the number and for multiples of five print "Buzz". For numbers which are multiples of both three and five print "FizzBuzz". 
+ Write a program that prints the numbers from 1 to 100. But for multiples of three print "Fizz" instead of the number and for multiples of five print "Buzz". For numbers which are multiples of both three and five print "FizzBuzz". 
 
 Using TDD idea of Red -> Green -> Refactor 
 
